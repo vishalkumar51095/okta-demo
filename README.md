@@ -1,13 +1,7 @@
-Certainly, Vishal! Below is the **full `README.md` file**, including all code samples (curl commands and configuration) needed for your Okta `client_credentials` demo.
-
----
-
-````markdown
 # 🔐 Okta Client Credentials Authentication – API Integration
 
 This project demonstrates how to authenticate and authorize API requests using **Okta** and the **OAuth 2.0 Client Credentials Flow**, ideal for machine-to-machine communication.
 
----
 
 ## ✅ Prerequisites
 
@@ -18,8 +12,6 @@ Before proceeding, ensure:
 - You enabled the **`client_credentials` grant type**.
 - You created an **Access Policy** and a **Rule** in your Authorization Server.
 - You disabled **DPoP** if not using it (or implemented JWT Proof-of-Possession if needed).
-
----
 
 ## 🔑 Step 1: Generate Access Token
 
