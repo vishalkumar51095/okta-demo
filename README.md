@@ -21,6 +21,14 @@ Before proceeding, ensure:
 POST https://dev-82404718.okta.com/oauth2/default/v1/token
 ````
 
+## 📸 Access Token Success Screenshot
+
+![Access Token Received](docs/images/token_success.png)
+
+## 📸 API Success Screenshot
+
+![API_Success_Response](docs/images/api_success.png)
+
 ### 🔐 Required Headers
 
 ```http
