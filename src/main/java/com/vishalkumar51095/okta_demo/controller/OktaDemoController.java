@@ -12,7 +12,6 @@ public class OktaDemoController {
 
     @GetMapping("/secured")
     public ResponseEntity<String> getStringByPassingToken(){
-
         return new ResponseEntity<>("Congratulations !! our access token is valid Go ahead!!", HttpStatus.OK);
     }
 }
