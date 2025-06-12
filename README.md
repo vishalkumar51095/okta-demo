@@ -124,8 +124,6 @@ GitHub: [vishalkumar51095](https://github.com/vishalkumar51095)
 
 ---
 
-````
-
 
 ### ✅ Next Steps
 
@@ -136,7 +134,7 @@ You can now:
    ```bash
    git add README.md
    git commit -m "Added full Okta client_credentials auth documentation"
-   git push origin main
+   git push origin master
 ````
 
 Let me know if you want a PDF version or a `Postman` collection too!
